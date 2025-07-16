@@ -144,13 +144,8 @@ Then open: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🙌 Acknowledgment
 
-This project is developed as part of **Prodigy InfoTech Full Stack Development Internship**. Special thanks to mentors and the open-source community.
-
----
-
-📷 Screenshots
+📷 **Screenshots**
 
 <img width="1722" height="966" alt="image" src="https://github.com/user-attachments/assets/093b1edf-158e-4a46-9110-a335e3315b12" />  <img width="1759" height="962" alt="image" src="https://github.com/user-attachments/assets/03c1efc1-d4dc-440d-bc4c-648d2f022322" />
 
@@ -160,6 +155,12 @@ This project is developed as part of **Prodigy InfoTech Full Stack Development I
 
 <img width="1734" height="670" alt="image" src="https://github.com/user-attachments/assets/21d858de-2a6b-4570-8c4f-7aecd80fc0a4" />
 
+
+---
+
+## 🙌 Acknowledgment
+
+This project is developed as part of **Prodigy InfoTech Full Stack Development Internship**. Special thanks to mentors and the open-source community.
 
 ---
 
